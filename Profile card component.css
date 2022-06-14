@@ -1,0 +1,37 @@
+.body {
+    background-color: rgb(61, 195, 195);
+}
+.img {
+    width: 30%;
+    border: 2px solid white;
+    border-radius: 50%;
+    position: absolute;
+    top: -20%;
+    left: 35%;
+}
+.div {
+    background-color: white;
+    height: 38%;
+    width: 20%;
+    position: absolute;
+    top: 35%;
+    left: 40%;
+    border-radius: 5%;
+}
+.h1 {
+    text-align: center;
+}
+.p {
+    font-size: 110%;
+    position: absolute;
+    top: 15%;
+    right: 21%;
+    color: gainsboro;
+}
+.p1 {
+    font-size: 110%;
+    position: absolute;
+    top: 25%;
+    right: 41%;
+    color: gainsboro;
+}
